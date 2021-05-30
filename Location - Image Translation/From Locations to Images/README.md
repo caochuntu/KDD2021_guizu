@@ -8,4 +8,4 @@ The format of your locations should be "id, longitude, latitude".
 
 If the format in your file is different from the above setting, please modify the code correspondingly.
 
-Only one function (_location_to_image()) is provided in the code, which can be invoked multiple times based on your own situation.
+Only one function (__location_to_image()_) is provided in the code, which can be invoked multiple times based on your own situation.
