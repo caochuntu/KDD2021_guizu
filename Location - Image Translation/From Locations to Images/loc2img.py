@@ -13,7 +13,7 @@ mRow = int((sg_y_max - sg_y_min) * 1.0 / grid_unit)
 nCol = int((sg_x_max - sg_x_min) * 1.0 / grid_unit)
 
 
-def _location_to_pixel_in_image():
+def _location_to_image():
     usefulPath = "the\\path\\where\\your\\data\\files\\were\\stored"
     for folderName in os.listdir(usefulPath):
         dataPath = usefulPath + folderName + "\\"
