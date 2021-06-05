@@ -40,6 +40,3 @@ If your dataset is located in a different root directory:
     $ # example
     $ python main.py --dataset=eyes --data_dir ../datasets/ --input_fname_pattern="*_cropped.png" --train
 
-## Reference
-
-Taehoon Kim / [@carpedm20](http://carpedm20.github.io/)
